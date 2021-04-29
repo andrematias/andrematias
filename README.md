@@ -1,4 +1,4 @@
-My name is Adré Matias, passionated for write code and learning something new where I can apply in my life.
+My name is André Matias, passionated for write code and learning something new where I can apply in my life.
 
 I love automate stuffs like boring tasks and routines that some machine could be done.
 
